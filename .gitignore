@@ -1,0 +1,4 @@
+.idea
+.idea/*
+.DS_*
+.travis.yml
